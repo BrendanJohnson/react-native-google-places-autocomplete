@@ -86,7 +86,7 @@ const GooglePlacesAutocomplete = React.createClass({
 
   getDefaultProps() {
     return {
-      placeholder: 'Search',
+      placeholder: 'aaSearch',
       onPress: () => {},
       minLength: 0,
       fetchDetails: false,
